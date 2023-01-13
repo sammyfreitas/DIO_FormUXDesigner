@@ -40,6 +40,9 @@ Quer se posicionar no mercado como um(a) UX/UI Designer ou então entender melho
 
 
 
+
+
+
 🤝 Contribuindo Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar! 
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/) 
