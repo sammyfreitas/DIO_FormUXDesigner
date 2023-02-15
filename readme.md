@@ -1,9 +1,10 @@
 # Formação UX Designer
 https://web.dio.me/track/formacao-ux-designer
 
- Intermediário
-肋 30 hrs
-1055 devs já se inscreveram
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/0b5c4809-2339-47e7-b9df-56359e44ac1a.png"/></div>
+
+
+        Intermediário * 肋 30 hrs * 1055 devs já se inscreveram
 
 <br>Quer se posicionar no mercado como um(a) UX/UI Designer ou então entender melhor os fundamentos de UX/UI para aprimorar os seus projetos? Então você está no lugar certo. <br>Em nossa Formação você irá dominar desde os princípios básicos de UX/UI até a criação de protótipos navegáveis para Web e Mobile. Você iniciará a jornada entendendo o que são Layouts, Grids, Wireframe, Usabilidade e muitos outros conceitos importantes nesta área. Depois, você irá mergulhar nas Leis e Elementos que fundamentam a Experiência do Usuário. Por fim, você irá aprender, na prática, a criar protótipos navegáveis e funcionais do zero.
 <br>Além de tudo isso, no final da trilha há dicas de ouro sobre Técnicas para a validação de ideias, Público-alvo e Journey Map. Em relação aos pré-requisitos são somente os seguintes: vontade de aprender e comprometimento. Embarque com a gente nessa!
